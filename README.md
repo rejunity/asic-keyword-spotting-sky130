@@ -32,6 +32,8 @@ This project is inpsired by the low-power neural network solutions proposed in t
 Pete Warden. [Speech commands: A public dataset for single-word speech recognition.](http://arxiv.org/abs/1804.03209)
 Dataset available from: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 
+![Speech commands: A public dataset for single-word speech recognition](docs/SpeechCommands.png)
+
 ## Useful Links
 * https://paperswithcode.com/task/keyword-spotting
 * https://paperswithcode.com/paper/hello-edge-keyword-spotting-on
