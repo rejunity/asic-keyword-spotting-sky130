@@ -12,6 +12,8 @@ This project is inpsired by the low-power neural network solutions proposed in t
    * [Hello Edge: Keyword Spotting on Microcontrollers](https://arxiv.org/abs/1711.07128)
    * [Streaming keyword spotting on mobile devices](https://arxiv.org/abs/2005.06720)
 
+![Hello Edge: Keyword Spotting on Microcontrollers](docs/DSCNN.png)
+
 ## High-level Architecture and Design
 1. [Depthwise separable convolutional](https://paperswithcode.com/method/depthwise-separable-convolution) neural network (DS-CNN).
 2. Reduced precision to store neural network weights, we will experiment with INT8, [FP8](https://arxiv.org/abs/2209.05433), FP4 and [Ternary formats](https://arxiv.org/pdf/2402.17764.pdf).
